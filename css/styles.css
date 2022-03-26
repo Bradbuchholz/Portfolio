@@ -1,7 +1,7 @@
 .my-image {
   border: 2px solid black;
   padding: 4px;
-  margin: 16;
+  margin: 6;
   background-color: black;
 }
 
@@ -13,4 +13,9 @@ img {
 
 .about {
   color: red;
+}
+
+.snow {
+  float: left;
+  padding: 20px;
 }
