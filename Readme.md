@@ -11,7 +11,7 @@
 
 ## Description
 
-_This is my porfolio page where I can display my work at_
+_This is my porfolio page where I can display my work at Epicodus_
 
 ## Setup/Installation Requirements
 
