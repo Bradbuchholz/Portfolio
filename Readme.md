@@ -20,7 +20,7 @@ _This is my porfolio page where I can display my work at Epicodus_
 
 ## Known Bugs
 
-* _Box on index.html does not fit properly around the picture. Black space needs to be reduced_
+* _Box on index.html does not fit properly around the picture. Black space needs to be reduced._
 
 ## License
 
