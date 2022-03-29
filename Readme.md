@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### By _**Brad Buchholz**_
+#### By _**Brad J Buchholz**_
 
 #### _A portfolio page to display my projects and skills learned at Epicodus_
 
@@ -26,4 +26,4 @@ _This is my porfolio page where I can display my work at Epicodus_
 
 ## License
 
-_Email Brad Buchholz @ bradbuchholz@gmail.com with any questions or concerns_
+_Email Brad Buchholz @ bradbuchholz@gmail.com with any questions or concerns._
