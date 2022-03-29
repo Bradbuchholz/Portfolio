@@ -4,6 +4,8 @@
 
 #### _A portfolio page to display my projects and skills learned at Epicodus_
 
+## GitHub Pages 
+* _https://bradbuchholz.github.io/Portfolio/_
 ## Technologies Used
 
 * _HTML_
